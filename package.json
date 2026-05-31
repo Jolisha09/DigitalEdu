@@ -1,0 +1,17 @@
+{
+  "name": "course-plan-website",
+  "version": "1.0.0",
+  "description": "Course Planning Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.5",
+    "express": "^4.22.2",
+    "sqlite3": "^5.1.7"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
